@@ -1,2 +1,3 @@
-# Supervised learning | Classification
- 
+About project:
+Nowadays, the identification of customers and how to approach them is of utmost importance. Companies strive to determine the likelihood of customers accepting an offer before making it, enabling them to provide the most suitable offer to their customers.
+In this dataset, we have numerous bank customers, each with their own set of characteristics. Ultimately, we aim to determine whether these customers have accepted previous loan offers from the bank or not. By developing an accurate model, we can predict whether another individual, to whom we are considering making a proposal, will accept or decline our offer.
