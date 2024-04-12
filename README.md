@@ -18,7 +18,7 @@ Preprocessing: Covers various preprocessing tasks, including handling missing va
 Modeling: Find an optimized model of supervised learning by deploying LogisticRegression, KNN, Complement Naive Bayes, Decision Tree classifier and Random Forest classifier algorithms
 
 ### LogisticRegression
-[![](./src/logreg.png)](#)
+[![](./src/Logreg.png)](#)
 
 ### KNN
 [![](./src/knn.png)](#)
@@ -28,7 +28,7 @@ Modeling: Find an optimized model of supervised learning by deploying LogisticRe
 [![](./src/cnb.png)](#)
 
 ### Decision Tree classifier
-[![](./src/dts.png)](#)
+[![](./src/dtc.png)](#)
 
 ### Random Forest classifier
 [![](./src/rfc.png)](#)
